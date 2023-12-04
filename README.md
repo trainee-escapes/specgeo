@@ -1,1 +1,2 @@
 # specgeo
+specific geometric formulas
